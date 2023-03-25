@@ -1,0 +1,101 @@
+
+#secti2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    padding: 22px 2Opx 0 20px;
+    overflow: hidden;
+}
+#secti2 div{
+    width: 311px;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 20px;
+    border-radius: 10px;
+}
+#greencard{
+    background-color: #00ccb1;
+}
+#bluecard{
+    background-color: #3D83DF;
+}
+#balckcard{
+    background-color: #1B2734;
+}
+#secti2 h1 {
+    color: #fff;
+    font-family: work Sans;
+    font-size: 20px;
+    line-height: 26px;
+    height: 0px;
+    width: 163px;
+    margin: 0 1em 0;
+    padding: 1px 12px;
+    
+}
+#secti2 p{
+    color: #fff;
+    font-family: work Sans;
+    font-size: 24px;
+    line-height: 28px;
+    height: 146px;
+    width: 250px;
+    margin: 0 1em 0;
+    padding: 26px 10px;
+}
+#secti2 img{
+    height: auto;
+    width: 24px;
+    margin: 0 0 1px 0;
+    max-width: 100%;
+    margin: 0 2em 0;
+    padding: 40px 0 3px;
+}
+#S1,#S2{
+    font-family: Roboto;
+    background: transparent;
+    color: #fff;
+    border: 0;
+    font-size: 19px;
+    line-height: 24px;
+    text-decoration: underline;
+    height: 30px;
+    width: 165px;
+    padding: 0 8px 0 0;
+    margin: 0 2em 0;
+    display: inline-block;
+    cursor: pointer;
+}
+#S3{
+    font-family: Roboto;
+    background: transparent;
+    color: #fff;
+    border: 0;
+    font-size: 19px;
+    line-height: 24px;
+    text-decoration: underline;
+    height: 30px;
+    width: 181px;
+    padding: 0 7px 0 0;
+    margin: 0 2em 0;
+    display: inline-block;
+    cursor: pointer;
+}
+#S4{
+    font-family: Roboto;
+    background: transparent;
+    color: #fff;
+    border: 0;
+    font-size: 19px;
+    line-height: 24px;
+    text-decoration: underline;
+    height: 30px;
+    width: 234px;
+    padding: 0 4px 0 0;
+    margin: 0 2em 0;
+    display: inline-block;
+    cursor: pointer;
+}
